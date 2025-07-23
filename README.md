@@ -13,4 +13,7 @@ Progress Tracker: Visualizes the user's learning journey and achievements, displ
 Topic Selection: Allows users to browse and select different subjects or modules with a visually engaging layout featuring clear categories and appealing icons.
 User Profile: Enables users to manage personal settings, view achievements, and track overall progress, displaying a summary of learning activity and allowing profile updates.
 
+<img width="1334" height="2255" alt="AR_VR application" src="https://github.com/user-attachments/assets/40e0ccf4-b9c0-4cdd-9826-b45c2b025b6b" />
+
+FIGMA LINK:https://www.figma.com/design/Fu43oAyQbNClD40T6iQUHB/AR-VR-application?node-id=0-1&p=f&t=lUlI7jZJYbezqCDs-0
 
